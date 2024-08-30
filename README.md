@@ -3,7 +3,7 @@
 
 <h3> :four_leaf_clover: About </h3>
   
-<p>Hi There! I am a Ph.D. Candidate in Vehicle Intelligence Lab.</p>
+<p>I am a Ph.D. Candidate in Vehicle Intelligence Lab.</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.</p> 
 
 <!-- #
