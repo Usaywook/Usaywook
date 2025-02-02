@@ -16,5 +16,5 @@
  -->
   
 #
-![Usaywook's github stats](https://github-readme-stats.vercel.app/api?username=usaywook&show_icons=true&theme=tokyonight)
+![Usaywook's github stats](https://github-readme-stats.vercel.app/api?username=usaywook&show_icons=true&theme=tokyonight&count_private=true)
 </div>
