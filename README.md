@@ -15,6 +15,7 @@
 <p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
  -->
   
-#
 ![Usaywook's github stats](https://github-readme-stats.vercel.app/api?username=usaywook&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Company Account Stats](https://github-readme-stats.vercel.app/api?username=swyoo-whereable&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 </div>
