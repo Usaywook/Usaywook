@@ -16,6 +16,4 @@
  -->
   
 ![Usaywook's github stats](https://github-readme-stats.vercel.app/api?username=usaywook&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Company Account Stats](https://github-readme-stats.vercel.app/api?username=sewookyoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 </div>
