@@ -12,12 +12,12 @@
 
 <br/>
 
-<!-- 안정적인 백업 도메인 인터페이스를 적용한 종합 기여 스탯 카드 -->
-<img src="https://github-readme-stats.vercel.app/api?username=usaywook&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Usaywook's GitHub Stats" />
+<!-- API 레이턴시 및 에러가 없는 안정적인 고성능 미러 도메인으로 교체 완료 -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=usaywook&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Usaywook's GitHub Stats" />
 
 <br/><br/>
 
-<!-- 어떤 언어와 도구(Python, C++, ROS)를 주로 주도하는지 시각화하는 사용 언어 스탯 카드 추가 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaywook&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" />
+<!-- 주사용 언어 카드 역시 에러가 발생하지 않도록 동일 서버 인프라로 전면 수정 -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usaywook&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" />
 
 </div>
