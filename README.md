@@ -18,6 +18,6 @@
 <br/><br/>
 
 <!-- 주사용 언어 카드 역시 에러가 발생하지 않도록 동일 서버 인프라로 전면 수정 -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usaywook&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usaywook&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" /> -->
 
 </div>
